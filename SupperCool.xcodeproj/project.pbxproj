@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		6D0C29CA1D29BDA500B7F401 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D0C29C91D29BDA500B7F401 /* AppDelegate.swift */; };
 		6D0C29CC1D29BDA500B7F401 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D0C29CB1D29BDA500B7F401 /* ViewController.swift */; };
+		A10C29CA1D29BDA500B7F401 /* ConcertTicket.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10C29C91D29BDA500B7F401 /* ConcertTicket.swift */; };
+		A20C29CA1D29BDA500B7F401 /* ConcertTicketViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20C29C91D29BDA500B7F401 /* ConcertTicketViewController.swift */; };
 		6D0C29CF1D29BDA500B7F401 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D0C29CD1D29BDA500B7F401 /* Main.storyboard */; };
 		6D0C29D11D29BDA500B7F401 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D0C29D01D29BDA500B7F401 /* Assets.xcassets */; };
 		6D0C29D41D29BDA500B7F401 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D0C29D21D29BDA500B7F401 /* LaunchScreen.storyboard */; };
@@ -37,6 +39,8 @@
 		6D0C29C61D29BDA500B7F401 /* SupperCool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SupperCool.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D0C29C91D29BDA500B7F401 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6D0C29CB1D29BDA500B7F401 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A10C29C91D29BDA500B7F401 /* ConcertTicket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcertTicket.swift; sourceTree = "<group>"; };
+		A20C29C91D29BDA500B7F401 /* ConcertTicketViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcertTicketViewController.swift; sourceTree = "<group>"; };
 		6D0C29CE1D29BDA500B7F401 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6D0C29D01D29BDA500B7F401 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D0C29D31D29BDA500B7F401 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -99,6 +103,8 @@
 			children = (
 				6D0C29C91D29BDA500B7F401 /* AppDelegate.swift */,
 				6D0C29CB1D29BDA500B7F401 /* ViewController.swift */,
+				A10C29C91D29BDA500B7F401 /* ConcertTicket.swift */,
+				A20C29C91D29BDA500B7F401 /* ConcertTicketViewController.swift */,
 				6D0C29CD1D29BDA500B7F401 /* Main.storyboard */,
 				6D0C29D01D29BDA500B7F401 /* Assets.xcassets */,
 				6D0C29D21D29BDA500B7F401 /* LaunchScreen.storyboard */,
@@ -258,6 +264,8 @@
 			files = (
 				6D0C29CC1D29BDA500B7F401 /* ViewController.swift in Sources */,
 				6D0C29CA1D29BDA500B7F401 /* AppDelegate.swift in Sources */,
+				A10C29CA1D29BDA500B7F401 /* ConcertTicket.swift in Sources */,
+				A20C29CA1D29BDA500B7F401 /* ConcertTicketViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
